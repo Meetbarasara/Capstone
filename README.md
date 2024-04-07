@@ -1,3 +1,1 @@
-# Capstone
-ENTRY QUEUE MANAGER.
 
